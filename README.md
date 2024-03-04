@@ -1,3 +1,6 @@
+![image](https://github.com/Lordwill1/my_portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b)
+
+
 - This is my portfolio website bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) + typescript and styled with tailwindcsss.
 
 
