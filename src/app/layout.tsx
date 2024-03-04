@@ -9,8 +9,8 @@ export const metadata: Metadata = {
   title: 'Godswill Kalu Portfolio',
   description: 'Software Engineer - Full Stack',
   openGraph: {
-    url: 'https://www.lordwill.tech',
-    images: 'https://raw.githubusercontent.com/lordwill1/portfolio_v2/main/public/img/twitter-card.png',
+    url: 'https://lordwill.netlify.app/',
+    images: 'https://github.com/Lordwill1/my_portfolio/assets/105258746/fc32b316-0838-432c-9e66-f8279c62bc6b',
   },
 }
 
