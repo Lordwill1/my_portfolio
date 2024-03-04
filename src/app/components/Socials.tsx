@@ -32,7 +32,7 @@ const Socials = () => {
                         <FaPhoneVolume className="p-2 rounded-xl text-vegas-gold bg-smoky-black border border-jet border-solid text-4xl" />
                         <p className="text-gray text-[15px] md:text-[16px] font-bold">Phone</p>
                     </div>
-                    <a href="tel:+2348147371491" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
+                    <a href="tel:+2348162887537" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
                         <p className="text-litewhite text-[12px] md:text-[13px] font-medium">+234-81-628-875-37</p>
                         <h4 className="text-[14px] md:text-[16px] text-litewhite group-hover:text-vegas-gold transition-all delay-200 font-medium">Place A Call</h4>
                     </a>
