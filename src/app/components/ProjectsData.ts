@@ -16,7 +16,7 @@ interface ProjectDataTypes {
         ProjectAbout: "A technology innovation Hackathon established by a group of organizations with the aim of showcasing young and talented individuals in the field of technology",
         stack: "Javascript |Node.js | React.js | Vite | Typescript | TailwindCSS",
         projectGithubURL: "https://github.com/lordwill1/getlinked",
-        projectLiveURL: "https://getlinked-ai-hackathon-challenge.vercel.app/",
+        projectLiveURL: "https://mygetlinked.netlify.app",
     },
     {
         id: 2,
