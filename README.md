@@ -1,7 +1,7 @@
 - This is my portfolio website bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) + typescript and styled with tailwindcsss.
 
 
-- Live Link [Go Live](https://)
+- Live Link [Go Live](https://lordwill.netlify.app/)
 ## Getting Started
 
 First, run the development server:
