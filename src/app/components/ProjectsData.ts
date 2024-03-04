@@ -39,13 +39,13 @@ interface ProjectDataTypes {
     },
     
     {
-        id: 2,
+        id: 4,
         projectImgURL: "/img/jadoo.png",
         projectTitle: "Jadoo",
         ProjectAbout: "A travel agency landing web page that shows the services offered by the agency, the destinations and booking options associated with the agency",
         stack: "NextJS | Typescript | TailwindCSS",
         projectGithubURL: "https://github.com/Lordwill1/jadoo",
-        projectLiveURL: "https://jadoo-travels.vercel.app/",
+        projectLiveURL: "https://gojadoo.netlify.app/",
     },
     
      {
