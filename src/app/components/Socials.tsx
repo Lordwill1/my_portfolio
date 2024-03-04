@@ -10,7 +10,7 @@ const Socials = () => {
                         <HiOutlineMail className="p-2 rounded-xl text-vegas-gold bg-smoky-black border border-jet border-solid text-4xl" />
                         <p className="text-gray text-[15px] md:text-[16px] font-bold">Email</p>
                     </div>
-                    <a href="mailto:egesionucharlesobimnaeto@gmail.com" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
+                    <a href="mailto:messagelordwill@gmail.com" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
                         <p className="text-litewhite text-[12px] md:text-[13px] font-medium">messagelordwill@gmail.com</p>
                         <h4 className="text-[14px] md:text-[16px] text-litewhite group-hover:text-vegas-gold transition-all delay-200 font-medium">Send A Mail</h4>
                     </a>
@@ -21,7 +21,7 @@ const Socials = () => {
                         <FaWhatsapp className="p-2 rounded-xl text-vegas-gold bg-smoky-black border border-jet border-solid text-4xl" />
                         <p className="text-gray text-[15px] md:text-[16px] font-bold">WhatsApp</p>
                     </div>
-                    <a href="https://wa.me/2348178200220" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
+                    <a href="https://wa.me/2348162887537" target="_blank" className="flex flex-col items-center justify-center gap-2 group">
                         <p className="text-litewhite text-[12px] md:text-[13px] font-medium">+234-81-628-875-37</p>
                         <h4 className="text-[14px] md:text-[16px] text-litewhite group-hover:text-vegas-gold transition-all delay-200 font-medium">Send A Message</h4>
                     </a>
